@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    font-family: 'Anek Telugu', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header styles */
+.header-text {
+    background-image: url("./images/banner/banner2.png");
+    background-repeat: no-repeat;
+    text-align: right;
+    padding-right: 230px;
+    padding-top: 216px;
+    padding-left: 845px;
+    padding-bottom: 167px;
+}
+
+.header-h1 {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+}
+
+.header-small {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    display: block;
+}
+
+.header-btn {
+    background: #F15B22;
+    border-radius: 5px;
+    border: none;
+    width: 160px;
+    height: 64px;
+}
+
+.header-btn p {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+}
