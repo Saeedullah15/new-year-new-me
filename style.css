@@ -48,3 +48,39 @@
     font-size: 20px;
     color: #FFFFFF;
 }
+
+/* failure section */
+.failure-container {
+    display: flex;
+    align-items: center;
+    padding: 130px 322px 0px 206px;
+}
+
+.failure-text {
+    margin-left: 87px;
+}
+
+.failure-h3 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.failure-p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.failure-list {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    list-style-type: none;
+}
+
+.failure-list i {
+    color: rgba(22, 216, 135, 1);
+}
