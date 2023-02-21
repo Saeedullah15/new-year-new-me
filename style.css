@@ -9,7 +9,23 @@
     font-family: 'Work Sans', sans-serif;
 }
 
-/* header styles */
+/* navigation section */
+.nav-container {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 15px 0px;
+    background-color: #151414;
+}
+
+.nav-container a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+/* header banner section */
 .header-text {
     background-image: url("./images/banner/banner2.png");
     background-repeat: no-repeat;
@@ -199,4 +215,15 @@
 
 .subscribe-part button {
     margin-left: 0px;
+}
+
+footer {
+    background-color: #151414;
+}
+
+footer small {
+    color: #FFFFFF;
+    text-align: center;
+    display: block;
+    padding: 10px;
 }
